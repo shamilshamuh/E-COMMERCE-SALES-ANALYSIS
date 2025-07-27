@@ -46,27 +46,36 @@ KPI Cards for:
 
 - Profit Margin: 12.47% with -5.15% decline
 
-- Sales and Profit Monthly Trend
-A dual-axis chart showing monthly sales vs profit comparison.
+**Sales and Profit Monthly Trend**
+- A dual-axis chart showing monthly sales vs profit comparison.
 
-- Category-wise Analysis
+**Category-wise Analysis**
 
-Profit Contribution by Furniture, Office Supplies, and Technology.
+-Profit Contribution by Furniture, Office Supplies, and Technology.
 
-- Sales Share % in an easy-to-read doughnut chart.
+**Sales Share % in an easy-to-read doughnut chart.**
 
-- Geo Analysis
+**Geo Analysis**
 
-U.S. State-level Sales Distribution using a gradient-filled map.
+- U.S. State-level Sales Distribution using a gradient-filled map.
 
 **Top Performing Sub-Categories**
 
--Top 5 by revenue, including Phones, Chairs, Storage, etc.
+- Top 5 by revenue, including Phones, Chairs, Storage, etc.
 
-Interactive Filtering Options
+**Interactive Filtering Options**
 
-Segment-wise (Consumer, Corporate, Home Office)
+- Segment-wise (Consumer, Corporate, Home Office)
 
-Region-wise (Central, East, South, West)
+- Region-wise (Central, East, South, West)
 
-Year-wise (2011–2014)
+-Year-wise (2011–2014)
+
+## IMPACT
+**This dashboard enables quick decision-making for business leaders by offering a high-level yet detailed overview of sales performance, geographical trends, and category contributions. It was designed to be user-friendly, visually appealing, and highly informative.**
+
+## Dashboard
+![](https://github.com/shamilshamuh/E-COMMERCE-SALES-ANALYSIS/blob/main/E%20COMMERCE%20RAW%20.PNG)
+
+
+
