@@ -75,7 +75,7 @@ KPI Cards for:
 **This dashboard enables quick decision-making for business leaders by offering a high-level yet detailed overview of sales performance, geographical trends, and category contributions. It was designed to be user-friendly, visually appealing, and highly informative.**
 
 ## Dashboard
-![](https://github.com/shamilshamuh/E-COMMERCE-SALES-ANALYSIS/blob/main/E%20COMMERCE%20RAW%20.PNG)
+![](https://github.com/shamilshamuh/E-COMMERCE-SALES-ANALYSIS/blob/main/E%20COMMERSE%20SALES.PNG)
 
 
 
