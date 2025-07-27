@@ -59,7 +59,7 @@ Profit Contribution by Furniture, Office Supplies, and Technology.
 
 U.S. State-level Sales Distribution using a gradient-filled map.
 
-** Top Performing Sub-Categories
+**Top Performing Sub-Categories**
 
 -Top 5 by revenue, including Phones, Chairs, Storage, etc.
 
