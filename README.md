@@ -33,35 +33,35 @@ This project presents a dynamic and interactive Excel dashboard created to analy
 
 - Conditional Formatting for YOY Growth Indicators
 
-📊 Key Features
+## 📊 Key Features
 KPI Cards for:
 
-Revenue: $2.29M with +20.62% YoY Growth
+- Revenue: $2.29M with +20.62% YoY Growth
 
-Profit: $286K with +14.41% YoY Growth
+- Profit: $286K with +14.41% YoY Growth
 
-Quantity: 37,873 with +27.45% YoY Growth
+- Quantity: 37,873 with +27.45% YoY Growth
 
-Orders: 9,994 with +28.64% YoY Growth
+- Orders: 9,994 with +28.64% YoY Growth
 
-Profit Margin: 12.47% with -5.15% decline
+- Profit Margin: 12.47% with -5.15% decline
 
-Sales and Profit Monthly Trend
+- Sales and Profit Monthly Trend
 A dual-axis chart showing monthly sales vs profit comparison.
 
-Category-wise Analysis
+- Category-wise Analysis
 
 Profit Contribution by Furniture, Office Supplies, and Technology.
 
-Sales Share % in an easy-to-read doughnut chart.
+- Sales Share % in an easy-to-read doughnut chart.
 
-Geo Analysis
+- Geo Analysis
 
 U.S. State-level Sales Distribution using a gradient-filled map.
 
-Top Performing Sub-Categories
+** Top Performing Sub-Categories
 
-Top 5 by revenue, including Phones, Chairs, Storage, etc.
+-Top 5 by revenue, including Phones, Chairs, Storage, etc.
 
 Interactive Filtering Options
 
